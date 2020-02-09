@@ -1,5 +1,7 @@
 body{
     font-family:poppins,sans-serif;
+    font-weight: 400;
+    font: 1em sans-serif;
 
 }
 h1{
@@ -26,12 +28,12 @@ h1{
 }
 .icon
 {
-    line-height: 70px;
+    line-height: 80px;
     text-align: center;
     border-radius: 50%;
-    height: 80px;
+    height: 90px;
     margin: auto;
-    width: 80px;
+    width: 90px;
 }
 .i1
 {
@@ -64,12 +66,19 @@ h1{
 }
 .bg_image
 {
-    background-image: url('../img/about/counter.png');
+    background-image: url('../img/banner/counter.png');
     background-size: 100% ,100%;
     background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
 
 }
 .margin_
 {
+    padding-top: 100px;
+    padding-bottom: 35%;
     padding-left: 25%;
+}
+.case_study
+{
 }
