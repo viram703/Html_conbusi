@@ -1,14 +1,75 @@
 body{
-    font-family:'Poppins';
+    font-family:poppins,sans-serif;
+
 }
 h1{
     padding-top: 50px;
     padding-left: 200px;
 }
 .bgimg{
-    background-image: url('../img/banner/banner_2.png');
+    background-image: url('../img/banner/banner_3.png');
     background-size: 100%,100%;
     background-repeat: no-repeat;
     width: 100%;
     height: 500px;
+}
+.button_design
+{
+    margin-left: 200px;
+    border-radius: 50%;
+
+}
+.service
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.icon
+{
+    line-height: 70px;
+    text-align: center;
+    border-radius: 50%;
+    height: 80px;
+    margin: auto;
+    width: 80px;
+}
+.i1
+{
+    background:#71bafc ;
+
+}
+.i2
+{
+    background: lime;
+}
+.i3
+{
+    background:#fd8e5e;
+}
+.i4
+{
+    background:#7d5ef9;
+}
+.i5
+{
+    background:#2393f9;
+}
+.i6
+{
+    background:#8245e3;
+}
+.grid
+{
+    margin-bottom: 50px;   
+}
+.bg_image
+{
+    background-image: url('../img/about/counter.png');
+    background-size: 100% ,100%;
+    background-repeat: no-repeat;
+
+}
+.margin_
+{
+    padding-left: 25%;
 }
