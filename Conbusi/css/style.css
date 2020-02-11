@@ -79,6 +79,8 @@ h1{
     padding-bottom: 35%;
     padding-left: 25%;
 }
-.case_study
+.case_margin
 {
+    page-break-after: 100px;
+    padding-bottom: 100px;
 }
